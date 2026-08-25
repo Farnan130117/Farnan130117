@@ -12,7 +12,7 @@ Hi there, this is Md. Mokammal Hossen Farnan from :bangladesh:. Software Technic
 <h3> :hammer_and_wrench: &nbsp;Tech Stack</h3>
 
 - :dagger: &nbsp;Languages:&nbsp;
-- ![](https://img.shields.io/badge/-Python-0A1A2F?style=flat&logo=python)
+  ![](https://img.shields.io/badge/-Python-0A1A2F?style=flat&logo=python)
   ![](https://img.shields.io/badge/-PHP-0A1A2F?style=flat&logo=php)
   ![](https://img.shields.io/badge/-Java-0A1A2F?style=flat&logo=openjdk)
   ![](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat&logo=javascript)
@@ -49,13 +49,11 @@ Hi there, this is Md. Mokammal Hossen Farnan from :bangladesh:. Software Technic
   ![](https://img.shields.io/badge/-Machine_Learning-0A1A2F?style=flat&logo=scikitlearn)
   ![](https://img.shields.io/badge/-NLP-0A1A2F?style=flat)
   ![](https://img.shields.io/badge/-OpenAI-0A1A2F?style=flat&logo=openai)
-  ![](https://img.shields.io/badge/-Gemini-0A1A2F?style=flat&logo=googlegemini)
   ![](https://img.shields.io/badge/-Anthropic-0A1A2F?style=flat&logo=anthropic)
   ![](https://img.shields.io/badge/-LangChain-0A1A2F?style=flat)
   ![](https://img.shields.io/badge/-Hugging_Face-0A1A2F?style=flat&logo=huggingface)
   ![](https://img.shields.io/badge/-NumPy-0A1A2F?style=flat&logo=numpy)
   ![](https://img.shields.io/badge/-Pandas-0A1A2F?style=flat&logo=pandas)
-  ![](https://img.shields.io/badge/-Scikit_Learn-0A1A2F?style=flat&logo=scikitlearn)
 
 - :bow_and_arrow: &nbsp;Tools & Workflow:&nbsp;
   ![](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
