@@ -2,8 +2,7 @@
 
 > Software Technical Lead at Nori
 
-[![](https://img.shields.io/badge/Blog-Farnan130117-0A1A2F?style=flat)](https://github.com/Farnan130117)
-[![](https://img.shields.io/badge/-Farnan-0A1A2F?style=flat&logo=linkedin)](https://www.linkedin.com/in/md-mokammal-hossen-farnan-166bb3121/)
+[![](https://img.shields.io/badge/Linkedin-Farnan130117-0A1A2F?style=flat)]([https://github.com/Farnan130117](https://www.linkedin.com/in/md-mokammal-hossen-farnan-166bb3121/)
 
 Hi there, this is Md. Mokammal Hossen Farnan from :bangladesh:. Software Technical Lead with a background in scalable web systems, competitive programming, and AI-powered solutions.
 
