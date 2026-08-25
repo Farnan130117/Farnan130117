@@ -1,4 +1,4 @@
-## **Md. Mokammal Hossen Farnan** [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=Farnan130117&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400"/>](https://github.com/Farnan130117)
+## **Md. Mokammal Hossen Farnan** 
 
 > Software Technical Lead at Nori
 
@@ -12,8 +12,8 @@ Hi there, this is Md. Mokammal Hossen Farnan from :bangladesh:. Software Technic
 <h3> :hammer_and_wrench: &nbsp;Tech Stack</h3>
 
 - :dagger: &nbsp;Languages:&nbsp;
+- ![](https://img.shields.io/badge/-Python-0A1A2F?style=flat&logo=python)
   ![](https://img.shields.io/badge/-PHP-0A1A2F?style=flat&logo=php)
-  ![](https://img.shields.io/badge/-Python-0A1A2F?style=flat&logo=python)
   ![](https://img.shields.io/badge/-Java-0A1A2F?style=flat&logo=openjdk)
   ![](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat&logo=javascript)
   ![](https://img.shields.io/badge/-C-0A1A2F?style=flat&logo=c)
@@ -85,20 +85,5 @@ Hi there, this is Md. Mokammal Hossen Farnan from :bangladesh:. Software Technic
 - Deepening **LangChain** and **Hugging Face** workflows for production AI systems
 - Exploring **system design** patterns for high-scale distributed applications
 
----
-
-<h3> :bar_chart: &nbsp;GitHub Stats</h3>
-
-[<img align="left" width="410" src="https://github-readme-stats.vercel.app/api?username=Farnan130117&show_icons=true&theme=default&count_private=true"/>](https://github.com/Farnan130117)
-[<img align="left" width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=Farnan130117"/>](https://github.com/Farnan130117)
-
-<br clear="both">
-
----
-
-### :sparkles: &nbsp;Featured Projects
-> Pin your top repositories from your GitHub profile settings — once pinned, they'll display automatically in the "Pinned" section below this README.
-
----
 
 💬 <b>Drop a mail:</b> <a href="mailto:mh.farnan@gmail.com" target="_blank">mh.farnan@gmail.com</a> | <b>Phone:</b> <a href="tel:+8801670516437" target="_blank">+8801670516437</a>
